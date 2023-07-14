@@ -1,0 +1,4 @@
+{
+	"extends": ["@rocket.chat/eslint-config", "plugin:react-hooks/recommended"],
+	"ignorePatterns": ["**/dist"]
+}
